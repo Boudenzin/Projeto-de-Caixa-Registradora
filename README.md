@@ -32,7 +32,7 @@ O **PyCash** é um sistema simples desenvolvido em Python que simula o funcionam
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/PyCash.git
+   git clone https://github.com/Boudenzin/PyCash.git
    
 2. Navegue até o diretório do projeto:
    ```bash
